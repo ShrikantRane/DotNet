@@ -1,0 +1,15 @@
+D:\C#\Array_String\bin\Debug\net6.0\Array_String.exe
+D:\C#\Array_String\bin\Debug\net6.0\Array_String.deps.json
+D:\C#\Array_String\bin\Debug\net6.0\Array_String.runtimeconfig.json
+D:\C#\Array_String\bin\Debug\net6.0\Array_String.dll
+D:\C#\Array_String\bin\Debug\net6.0\Array_String.pdb
+D:\C#\Array_String\obj\Debug\net6.0\Array_String.csproj.AssemblyReference.cache
+D:\C#\Array_String\obj\Debug\net6.0\Array_String.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Array_String\obj\Debug\net6.0\Array_String.AssemblyInfoInputs.cache
+D:\C#\Array_String\obj\Debug\net6.0\Array_String.AssemblyInfo.cs
+D:\C#\Array_String\obj\Debug\net6.0\Array_String.csproj.CoreCompileInputs.cache
+D:\C#\Array_String\obj\Debug\net6.0\Array_String.dll
+D:\C#\Array_String\obj\Debug\net6.0\refint\Array_String.dll
+D:\C#\Array_String\obj\Debug\net6.0\Array_String.pdb
+D:\C#\Array_String\obj\Debug\net6.0\Array_String.genruntimeconfig.cache
+D:\C#\Array_String\obj\Debug\net6.0\ref\Array_String.dll

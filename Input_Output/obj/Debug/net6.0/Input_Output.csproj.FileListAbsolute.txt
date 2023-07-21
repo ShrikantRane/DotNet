@@ -1,0 +1,15 @@
+D:\C#\Input_Output\bin\Debug\net6.0\Input_Output.exe
+D:\C#\Input_Output\bin\Debug\net6.0\Input_Output.deps.json
+D:\C#\Input_Output\bin\Debug\net6.0\Input_Output.runtimeconfig.json
+D:\C#\Input_Output\bin\Debug\net6.0\Input_Output.dll
+D:\C#\Input_Output\bin\Debug\net6.0\Input_Output.pdb
+D:\C#\Input_Output\obj\Debug\net6.0\Input_Output.csproj.AssemblyReference.cache
+D:\C#\Input_Output\obj\Debug\net6.0\Input_Output.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Input_Output\obj\Debug\net6.0\Input_Output.AssemblyInfoInputs.cache
+D:\C#\Input_Output\obj\Debug\net6.0\Input_Output.AssemblyInfo.cs
+D:\C#\Input_Output\obj\Debug\net6.0\Input_Output.csproj.CoreCompileInputs.cache
+D:\C#\Input_Output\obj\Debug\net6.0\Input_Output.dll
+D:\C#\Input_Output\obj\Debug\net6.0\refint\Input_Output.dll
+D:\C#\Input_Output\obj\Debug\net6.0\Input_Output.pdb
+D:\C#\Input_Output\obj\Debug\net6.0\Input_Output.genruntimeconfig.cache
+D:\C#\Input_Output\obj\Debug\net6.0\ref\Input_Output.dll
